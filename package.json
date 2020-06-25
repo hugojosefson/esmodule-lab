@@ -1,0 +1,15 @@
+{
+  "name": "esmodule-lab",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Experimenting with module resolution in Node.js 13 and 14.",
+  "main": "index.js",
+  "keywords": [
+    "esm",
+    "esmodule",
+    "lab"
+  ],
+  "repository": "hugojosefson/esmodule-lab",
+  "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com)",
+  "license": "MIT"
+}
